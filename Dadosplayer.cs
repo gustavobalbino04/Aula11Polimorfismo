@@ -2,7 +2,7 @@ namespace Aula11Polimorfismo
 {
     public class Dadosplayer
     {
-        //subre carga 
+        //sobre carga 
         public string Calcular(){
             return "Dados de jogador:";
         }
